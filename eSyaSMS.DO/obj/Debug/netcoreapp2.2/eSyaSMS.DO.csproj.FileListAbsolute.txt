@@ -1,0 +1,8 @@
+D:\OfficeWorkingProjects\AllWEBAPI\eSyaSMS.WebAPI\eSyaSMS.DO\bin\Debug\netcoreapp2.2\eSyaSMS.DO.deps.json
+D:\OfficeWorkingProjects\AllWEBAPI\eSyaSMS.WebAPI\eSyaSMS.DO\bin\Debug\netcoreapp2.2\eSyaSMS.DO.dll
+D:\OfficeWorkingProjects\AllWEBAPI\eSyaSMS.WebAPI\eSyaSMS.DO\bin\Debug\netcoreapp2.2\eSyaSMS.DO.pdb
+D:\OfficeWorkingProjects\AllWEBAPI\eSyaSMS.WebAPI\eSyaSMS.DO\obj\Debug\netcoreapp2.2\eSyaSMS.DO.csproj.CoreCompileInputs.cache
+D:\OfficeWorkingProjects\AllWEBAPI\eSyaSMS.WebAPI\eSyaSMS.DO\obj\Debug\netcoreapp2.2\eSyaSMS.DO.AssemblyInfoInputs.cache
+D:\OfficeWorkingProjects\AllWEBAPI\eSyaSMS.WebAPI\eSyaSMS.DO\obj\Debug\netcoreapp2.2\eSyaSMS.DO.AssemblyInfo.cs
+D:\OfficeWorkingProjects\AllWEBAPI\eSyaSMS.WebAPI\eSyaSMS.DO\obj\Debug\netcoreapp2.2\eSyaSMS.DO.dll
+D:\OfficeWorkingProjects\AllWEBAPI\eSyaSMS.WebAPI\eSyaSMS.DO\obj\Debug\netcoreapp2.2\eSyaSMS.DO.pdb

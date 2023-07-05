@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v2.2",
+    "signature": "da39a3ee5e6b4b0d3255bfef95601890afd80709"
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v2.2": {
+      "eSyaSMS.IF/1.0.0": {
+        "dependencies": {
+          "eSyaSMS.DO": "1.0.0"
+        },
+        "runtime": {
+          "eSyaSMS.IF.dll": {}
+        }
+      },
+      "eSyaSMS.DO/1.0.0": {
+        "runtime": {
+          "eSyaSMS.DO.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "eSyaSMS.IF/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "eSyaSMS.DO/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

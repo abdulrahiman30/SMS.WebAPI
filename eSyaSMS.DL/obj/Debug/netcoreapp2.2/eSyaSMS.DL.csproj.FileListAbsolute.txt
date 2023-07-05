@@ -1,0 +1,16 @@
+D:\OfficeWorkingProjects\AllWEBAPI\eSyaSMS.WebAPI\eSyaSMS.DL\bin\Debug\netcoreapp2.2\eSyaSMS.DL.deps.json
+D:\OfficeWorkingProjects\AllWEBAPI\eSyaSMS.WebAPI\eSyaSMS.DL\bin\Debug\netcoreapp2.2\eSyaSMS.DL.runtimeconfig.json
+D:\OfficeWorkingProjects\AllWEBAPI\eSyaSMS.WebAPI\eSyaSMS.DL\bin\Debug\netcoreapp2.2\eSyaSMS.DL.runtimeconfig.dev.json
+D:\OfficeWorkingProjects\AllWEBAPI\eSyaSMS.WebAPI\eSyaSMS.DL\bin\Debug\netcoreapp2.2\eSyaSMS.DL.dll
+D:\OfficeWorkingProjects\AllWEBAPI\eSyaSMS.WebAPI\eSyaSMS.DL\bin\Debug\netcoreapp2.2\eSyaSMS.DL.pdb
+D:\OfficeWorkingProjects\AllWEBAPI\eSyaSMS.WebAPI\eSyaSMS.DL\bin\Debug\netcoreapp2.2\eSyaSMS.DO.dll
+D:\OfficeWorkingProjects\AllWEBAPI\eSyaSMS.WebAPI\eSyaSMS.DL\bin\Debug\netcoreapp2.2\eSyaSMS.IF.dll
+D:\OfficeWorkingProjects\AllWEBAPI\eSyaSMS.WebAPI\eSyaSMS.DL\bin\Debug\netcoreapp2.2\eSyaSMS.DO.pdb
+D:\OfficeWorkingProjects\AllWEBAPI\eSyaSMS.WebAPI\eSyaSMS.DL\bin\Debug\netcoreapp2.2\eSyaSMS.IF.pdb
+D:\OfficeWorkingProjects\AllWEBAPI\eSyaSMS.WebAPI\eSyaSMS.DL\obj\Debug\netcoreapp2.2\eSyaSMS.DL.csprojAssemblyReference.cache
+D:\OfficeWorkingProjects\AllWEBAPI\eSyaSMS.WebAPI\eSyaSMS.DL\obj\Debug\netcoreapp2.2\eSyaSMS.DL.csproj.CoreCompileInputs.cache
+D:\OfficeWorkingProjects\AllWEBAPI\eSyaSMS.WebAPI\eSyaSMS.DL\obj\Debug\netcoreapp2.2\eSyaSMS.DL.AssemblyInfoInputs.cache
+D:\OfficeWorkingProjects\AllWEBAPI\eSyaSMS.WebAPI\eSyaSMS.DL\obj\Debug\netcoreapp2.2\eSyaSMS.DL.AssemblyInfo.cs
+D:\OfficeWorkingProjects\AllWEBAPI\eSyaSMS.WebAPI\eSyaSMS.DL\obj\Debug\netcoreapp2.2\eSyaSMS.DL.csproj.CopyComplete
+D:\OfficeWorkingProjects\AllWEBAPI\eSyaSMS.WebAPI\eSyaSMS.DL\obj\Debug\netcoreapp2.2\eSyaSMS.DL.dll
+D:\OfficeWorkingProjects\AllWEBAPI\eSyaSMS.WebAPI\eSyaSMS.DL\obj\Debug\netcoreapp2.2\eSyaSMS.DL.pdb
